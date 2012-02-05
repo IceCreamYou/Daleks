@@ -1,0 +1,5 @@
+add a pause between levels
+fix the bug with walking off the edge
+fix the bug where daleks can spawn under the player at the beginning of levels / player can teleport on top of daleks during a safe teleport
+confirm restart if not on level 1
+sound effects
